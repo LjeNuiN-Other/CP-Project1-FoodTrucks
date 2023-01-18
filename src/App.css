@@ -1,0 +1,42 @@
+body{
+  background-color: rgb(173, 236, 255);
+}
+
+.page-tittle{
+  text-align: center;
+}
+
+
+.trucks-container{
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+
+
+
+}
+
+.card{
+  
+  color: #000;
+  background-color: #fff;
+  padding-bottom: 20px;
+  box-shadow: 0 15px 25px #817c7c33;
+  font-size: medium;
+  border-radius: 14px;
+  text-align: center;
+  margin-bottom: 30px;
+  height: 450px;
+  background-color: rgb(247, 244, 244);
+  
+}
+
+.card-img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
