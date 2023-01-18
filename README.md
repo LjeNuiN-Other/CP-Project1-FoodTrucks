@@ -13,7 +13,6 @@ The following **required** functionality is completed:
 - [x] **The app displays information about food trucks such as name, food type,image of truck, and a link to the menu**
 - [x] **Multiple cards are shown at a time and is responsive to changes in window size and mobiile view**
 - [x] **Clicking on the view menu button shows takes you to the resturants menu**
-- [x] **Clicking the next button displays a random new card**
 
 ## Video Walkthrough
 
